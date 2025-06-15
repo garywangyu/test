@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>MyRevitAddin</Name>
+    <Assembly>$(AppData)\Autodesk\REVIT\Addins\2022\MyRevitAddin.dll</Assembly>
+    <AddInId>9A00C470-A0C1-4C8F-8F14-9C03F99A1234</AddInId>
+    <FullClassName>MyRevitAddin.App</FullClassName>
+    <VendorId>MYCO</VendorId>
+    <VendorDescription>My Company</VendorDescription>
+  </AddIn>
+</RevitAddIns>
